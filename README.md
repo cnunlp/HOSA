@@ -79,3 +79,21 @@ python3 train.py --config configs/[config].yaml --logger_name runs/hosa
 
 The training outputs, including tensorboard logs and checkpoints, will be saved in runs/hosa.
 
+## Citation
+
+```bibtex
+    @inproceedings{gao-etal-2024-high,
+    title = "High-Order Semantic Alignment for Unsupervised Fine-Grained Image-Text Retrieval",
+    author = "Gao, Rui  and
+      Cheng, Miaomiao  and
+      Han, Xu  and
+      Song, Wei",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.714",
+    pages = "8155--8165",
+  }
+```
